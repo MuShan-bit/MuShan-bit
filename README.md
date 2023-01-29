@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mushan-bit&show_icons=true&theme=tokyonight&count_private=true)
+
 
 - 👋 Hi, I’m @MuShan-bit
 - 👀 I’m interested in ...
