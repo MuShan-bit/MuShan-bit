@@ -1,5 +1,5 @@
 
-<p align="center"><img width="240" src="./elaina.gif" /></p>
+<p align="center"><img width="240" src="./gif/elaina.gif" /></p>
 
 
 
