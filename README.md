@@ -1,12 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushan-bit&show_icons=true&theme=tokyonight&count_private=true)
 
-- 👋 Hi, I’m @MuShan-bit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-MuShan-bit/MuShan-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+<p align="center">
+ <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuShan-bit&count_private=true&show_icons=true&theme=nord&hide_border=false&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" style="color:gray;cursor:pointer;pointer-events:none;"> 
+</p>
