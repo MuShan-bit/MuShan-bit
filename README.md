@@ -9,12 +9,11 @@
   <a href="https://blog.mushan.xyz"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <a href="https://blog.csdn.net/MuShan_bit"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
 </div>
-<center>
-<p>&nbsp;&nbsp;大家好，我是<strong style="color:#ffc000;">木杉</strong>！❤️ 本人目前就读于<strong style="color:#ffc000;">青岛工学院</strong>，是一名<strong style="color:#ffc000;">软件专业</strong>学生。</p>
-<p>主攻后端方向😎对数据结构和算法、底层开发技术很感兴趣，爱折腾，梦想是有朝一日成为被人认可的程序大佬。</p>
-<p>☘️向往惬意的<strong style="color:#00b050;">森林</strong>、向往神秘的<strong style="color:#00b0f0;">深海</strong>、向往高深的<strong style="color:#7030a0;">技术</strong>🏞️</p>
-<p>&nbsp;&nbsp;🌞欢迎大家光临我的Github首页哦🌞</p>
-</center>
+
+<p align="center">&nbsp;&nbsp;大家好，我是<strong style="color:#ffc000;">木杉</strong>！❤️ 本人目前就读于<strong style="color:#ffc000;">青岛工学院</strong>，是一名<strong style="color:#ffc000;">软件专业</strong>学生。</p>
+<p align="center">主攻后端方向😎对数据结构和算法、底层开发技术很感兴趣，爱折腾，梦想是有朝一日成为被人认可的程序大佬。</p>
+<p align="center">☘️向往惬意的<strong style="color:#00b050;">森林</strong>、向往神秘的<strong style="color:#00b0f0;">深海</strong>、向往高深的<strong style="color:#7030a0;">技术</strong>🏞️</p>
+<p align="center">&nbsp;&nbsp;🌞欢迎大家光临我的Github首页哦🌞</p>
 
 
 <p align="center">
