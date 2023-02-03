@@ -3,15 +3,16 @@
 </h1>
 
 
-<p align="center"><img width="555" src="./gif/alinarin.gif" /></p>
+<p align="center"><img width="555" src="./gif/elaina.gif" /></p>
 
 <div align="center">
   <a href="https://blog.mushan.xyz"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <a href="https://blog.csdn.net/MuShan_bit"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
 </div></br>
-<p align="center">&nbsp;&nbsp;大家好，我是<strong style="color:#ffc000;">木杉</strong>！❤️ 本人目前就读于<strong style="color:#ffc000;">青岛工学院</strong>，是一名<strong style="color:#ffc000;">软件专业</strong>学生。</p>
+
+<p align="center">&nbsp;&nbsp;大家好，我是<font color="#e36c09"><b>木杉</b></font>！❤️ 本人目前就读于<font color="#e36c09"><b>青岛工学院</b></font>，是一名<font color="#e36c09"><b>软件专业</b></font>学生。</p>
 <p align="center">主攻后端方向😎对数据结构和算法、底层开发技术很感兴趣，爱折腾，梦想是有朝一日成为被人认可的程序大佬。</p>
-<p align="center">☘️向往惬意的<strong style="color:#00b050;">森林</strong>、向往神秘的<strong style="color:#00b0f0;">深海</strong>、向往高深的<strong style="color:#7030a0;">技术</strong>🏞️</p>
+<p align="center">☘️向往惬意的<font color="#92d050"><b>森林</b></font>、向往神秘的<font color="#00b0f0"><b>深海</b></font>、向往高深的<font color="#7030a0"><b>技术</b></font>🏞️</p>
 <p align="center">&nbsp;&nbsp;🌞欢迎大家光临我的Github首页哦🌞</p>
 
 <p align="center">
@@ -33,6 +34,6 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,cmake,electron,flutter,go,kotlin,k8s,nginx,nodejs,qt,react,pytorch,webpack,ts,vue,vite,unity)](https://skillicons.dev)
 </br>
 
-<p align="center">......还有其它很多很多我不知道但需要学习的知识</p>
-<p align="center">😎 <strong style="color:#ffff00;">学习的道路是困难的，也是快乐的，让我们一起向未来努力吧！</strong>❤️</p>
+<p align="center"><b>......还有其它很多很多我不知道但需要学习的知识</b></p>
+<p align="center">😎 <font color="#ffff00"><b>学习的道路是困难的，也是快乐的，让我们一起向未来努力吧！</b></font>❤️</p>
 <!-- 爱你们you~ -->
