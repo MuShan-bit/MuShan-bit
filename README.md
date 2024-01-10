@@ -20,12 +20,6 @@
   <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MuShan-bit&count_private=true&show_icons=true&theme=nord&hide_border=false&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" style="color:gray;cursor:pointer;pointer-events:none; algin:right;"> 
 </p>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuShan-bit&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
 ## 工具
 [![My Skills](https://skillicons.dev/icons?i=vim,idea,eclipse,vscode,git,gitlab,github,linux,xd,figma,pr,ps,ae,twitter,latex,markdown,matlab,postman,powershell,visualstudio,vercel)](https://skillicons.dev)
 ## 技术栈
